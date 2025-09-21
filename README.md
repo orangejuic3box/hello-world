@@ -8,7 +8,8 @@ compiles and runs a file? please send help
 
 # README
 
-## @Author: Maggie Lacson \n @ID: 1591850
+@Author: Maggie Lacson
+@ID: 1591850
 
 This readme describes how to use the `1591850-global.py` and `1591850-local.py` files. Please make sure to read to the end.
 
