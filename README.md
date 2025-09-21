@@ -8,8 +8,7 @@ compiles and runs a file? please send help
 
 # README
 
-## @Author: Maggie Lacson
-## @ID: 1591850
+## @Author: Maggie Lacson \n @ID: 1591850
 
 This readme describes how to use the `1591850-global.py` and `1591850-local.py` files. Please make sure to read to the end.
 
@@ -31,7 +30,7 @@ PREFIX.o4
 PREFIX.o5
 ```
 
-Notably, if both the -global.py and -local.py files are in the same folder and the same input file is used to run an alignment one after another, their output will overwrite each other since both programs have the same output naming scheme. i.e. output files do not have a "-global" or "-local" filename identififier.
+Notably, if both the -global.py and -local.py files are in the same folder and the same input file is used to run an alignment one after another, **their output will overwrite each other** since both programs have the same output naming scheme. i.e. output files do not have a "-global" or "-local" filename identififier.
 
 You may also choose to print the output to the terminal (output files will still be written), by setting the `--print_output` flag.
 
